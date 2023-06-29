@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Pravin Velusamy",
+      "datetime": "June 29, 2023 5:26:54 PM",
+      "body": "First React Project...."
+    },
+    {
+      "id": 2,
+      "title": "Social Media",
+      "datetime": "June 29, 2023 5:26:46 PM",
+      "body": "Social Media\n"
+    }
+  ]
+}
